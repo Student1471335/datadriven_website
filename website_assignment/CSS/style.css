@@ -1,0 +1,23 @@
+* {
+	font-family: Arial;
+}
+
+
+h1 {
+	font-size: 75px;
+}
+
+.main-nav {
+	display: flex;
+}
+
+.push {
+	margin-left: auto;
+}
+
+.container {
+	column-count: 3;
+	column-rule-width: 5px;
+	column-rule-style: dotted;
+	column-rule-color: rgb(209, 58, 12);
+  }
